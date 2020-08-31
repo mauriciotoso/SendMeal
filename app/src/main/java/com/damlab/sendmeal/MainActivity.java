@@ -9,6 +9,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    //hola2
     EditText cajaNumero;
 
     @Override
@@ -18,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         cajaNumero= findViewById(R.id.cajaNumero);
     }
+    //fff
 
     public void BotonGuardar(View view){
         Toast.makeText(this, "Datos guardados correctamente", Toast.LENGTH_SHORT).show();
