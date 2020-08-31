@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    //hola23456
+    //h
     EditText cajaNumero;
 
     @Override
